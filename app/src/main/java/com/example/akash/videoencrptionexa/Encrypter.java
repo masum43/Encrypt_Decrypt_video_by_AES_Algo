@@ -27,9 +27,6 @@ import fr.maxcom.http.LocalSingleHttpServer;
 
 import static java.lang.System.out;
 
-/**
- * Created by akash on 21/5/16.
- */
 
 public class Encrypter {
     //new
